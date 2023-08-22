@@ -1,4 +1,4 @@
 base:
   '*':
-  'web*':
+  'minnion2':
     - apache
